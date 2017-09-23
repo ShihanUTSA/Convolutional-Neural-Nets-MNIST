@@ -1,12 +1,12 @@
-# aind2-cnn
+# Convolutional-Neural-Nets-MNIST dataset
 
 ### Instructions
 
 1. Clone the repository and navigate to the downloaded folder.
 	
 	```	
-		git clone https://github.com/udacity/aind2-cnn.git
-		cd aind2-cnn
+		git clone https://github.com/ShihanUTSA/Convolutional-Neural-Nets-MNIST
+		
 	```
 
 2. Obtain the necessary Python packages, and switch Keras backend to Tensorflow.  	
